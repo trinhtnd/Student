@@ -1,0 +1,3 @@
+Mã sinh viên: 1, Họ tên: q, Giới tính: nam, Điểm python: 8.0, Điểm java: 9.0, Điểm trung bình: 8.67, Điểm tb: Đậu
+Mã sinh viên: 9, Họ tên: ttr, Giới tính: nữ, Điểm python: 6.0, Điểm java: 7.0, Điểm trung bình: 6.67, Điểm tb: Đậu
+Mã sinh viên: 4, Họ tên: ttr, Giới tính: nam, Điểm python: 3.0, Điểm java: 4.0, Điểm trung bình: 3.67, Điểm tb: Trượt
